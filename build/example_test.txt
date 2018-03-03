@@ -1,0 +1,26 @@
+Dragonking Alpha
+Teostra Beta
+Bazel Beta
+Rath Soul Alpha
+Bazel Alpha
+Attack Boost +3
+
+Decorations : 
+Level 1 (3) : 
+Attack Boost, Attack Boost, Quick Sheath, 
+Level 2 (0) : 
+
+Level 3 (2) : 
+Non-Elemental Boost, Critical Boost, 
+
+Skills : 
+Critical Draw 3
+Attack Boost 5
+Windproof 2
+Non-Elemental Boost 1
+Piercing Shots 1
+Weakness Exploit 2
+Special Ammo Boost 2
+Bombardier 2
+Critical Boost 1
+Quick Sheath 1
